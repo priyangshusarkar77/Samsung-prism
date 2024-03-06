@@ -1,6 +1,6 @@
 # SAMSUNG PRISM PROJECT (R&D Bangalore)
 
-                                                                                              1. Explore & Implement Image Augmentation Options
+1. Explore & Implement Image Augmentation Options
 
 About the concept: Image Augmentation is a technique using which we can artificially generate or expand the dataset. This is done by introducing some random changes or transformations on the existing dataset.
 The image Augmentation technique takes advantage of a property called The Transformation Invariance property. This property states that the information contained in the image is preserved even after introducing random transformations.
